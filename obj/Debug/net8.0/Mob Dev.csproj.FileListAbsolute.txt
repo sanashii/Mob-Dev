@@ -12,3 +12,18 @@ C:\Users\andyb\Desktop\Coding Files\Mob Dev\obj\Debug\net8.0\refint\Mob Dev.dll
 C:\Users\andyb\Desktop\Coding Files\Mob Dev\obj\Debug\net8.0\Mob Dev.pdb
 C:\Users\andyb\Desktop\Coding Files\Mob Dev\obj\Debug\net8.0\Mob Dev.genruntimeconfig.cache
 C:\Users\andyb\Desktop\Coding Files\Mob Dev\obj\Debug\net8.0\ref\Mob Dev.dll
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\bin\Debug\net8.0\Mob Dev.exe
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\bin\Debug\net8.0\Mob Dev.deps.json
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\bin\Debug\net8.0\Mob Dev.runtimeconfig.json
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\bin\Debug\net8.0\Mob Dev.dll
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\bin\Debug\net8.0\Mob Dev.pdb
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.AssemblyInfoInputs.cache
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.AssemblyInfo.cs
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.csproj.CoreCompileInputs.cache
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.sourcelink.json
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.dll
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\refint\Mob Dev.dll
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.pdb
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.genruntimeconfig.cache
+D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\ref\Mob Dev.dll

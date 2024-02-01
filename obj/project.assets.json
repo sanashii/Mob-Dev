@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andyb\\.nuget\\packages\\": {}
+    "C:\\Users\\queen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj",
+      "projectUniqueName": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj",
       "projectName": "Mob Dev",
-      "projectPath": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj",
-      "packagesPath": "C:\\Users\\andyb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\obj\\",
+      "projectPath": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj",
+      "packagesPath": "C:\\Users\\queen\\.nuget\\packages\\",
+      "outputPath": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andyb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\queen\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
