@@ -41,7 +41,7 @@ class Deck
 
 
     public void Shuffle(){
-        if(Cards.Count==0){
+        if(Cards.Count == 0){
             throw new CustomExceptions.EmptyDeckException();
         }
         List<Card> list = new List<Card>(Cards);
@@ -57,10 +57,10 @@ class Deck
         if (Cards.Count == 0)
             throw new CustomExceptions.EmptyDeckException();
         if (count < 0 || count > Cards.Count)
-            throw new ArgumentOutOfRangeException(null, "Cannot deal if deck has less cards than the asked number.");
+            throw new ArgumentOutOfRangeException(null, "Cannot deal if deck has fewer cards than the requested number.");
 
         List<Card> deal = new List<Card>();
-        while(count!=0){
+        while(count != 0){
             count--;
             deal.Add(Cards.Pop());
         }

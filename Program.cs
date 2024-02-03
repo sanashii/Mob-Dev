@@ -13,7 +13,7 @@ class Program
                 3 - Deal a card
                 4 - Display the deck
                 5 - Exit");
-                Console.Write("Choose your fighter: ");
+                Console.Write("Choose your option: ");
                 var choice = Console.ReadLine();
                 switch (choice)
                 {
@@ -69,6 +69,7 @@ class Program
                         Console.WriteLine("Exiting...");
                         return;
                     default:
+                        Console.WriteLine("Invalid choice. Please try again.");
                         break;
                 }
                 Console.Clear();
