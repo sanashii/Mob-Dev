@@ -1,3 +1,4 @@
+namespace Mob_Dev;
 using System;
 
 // Class to contain custom exceptions

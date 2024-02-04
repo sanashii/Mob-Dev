@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj": {}
+    "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj": {}
   },
   "projects": {
-    "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj": {
+    "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj",
+        "projectUniqueName": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj",
         "projectName": "Mob Dev",
-        "projectPath": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\Mob Dev.csproj",
-        "packagesPath": "C:\\Users\\queen\\.nuget\\packages\\",
-        "outputPath": "D:\\SCHOOL\\2023-2ndSem\\MOBDEV\\Mob-Dev\\obj\\",
+        "projectPath": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\Mob Dev.csproj",
+        "packagesPath": "C:\\Users\\andyb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andyb\\Desktop\\Coding Files\\Mob Dev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\queen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andyb\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

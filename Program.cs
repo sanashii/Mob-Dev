@@ -1,4 +1,4 @@
-﻿using Mob_Dev;
+﻿namespace Mob_Dev;
 
 class Program
 {
@@ -57,8 +57,8 @@ class Program
 
                         break;
                     case "4":
-                        Console.WriteLine("Displaying the deck...");
                         try{
+                            Console.WriteLine("Displaying the deck...");
                             deck.Display();
                         }catch(Exception e){
                             Console.WriteLine(e.Message);

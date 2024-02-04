@@ -27,3 +27,4 @@ D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\refint\Mob Dev.dll
 D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.pdb
 D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\Mob Dev.genruntimeconfig.cache
 D:\SCHOOL\2023-2ndSem\MOBDEV\Mob-Dev\obj\Debug\net8.0\ref\Mob Dev.dll
+C:\Users\andyb\Desktop\Coding Files\Mob Dev\obj\Debug\net8.0\Mob Dev.sourcelink.json

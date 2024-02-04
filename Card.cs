@@ -1,4 +1,3 @@
-//using Mob_Dev;
 namespace Mob_Dev;
 
 class Card{
